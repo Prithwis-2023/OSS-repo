@@ -61,10 +61,8 @@ python test_feature.py
 ## Contributing
 
 This is currently a course practice repository, so contributions are not expected at this stage.
-If the project is expanded later, contribution guidelines should be added. But week5_task branch has contribution guidelines file that can be found.
+[Contributing Guidelines](CONTRIBUTING.md) has contribution guidelines file that can be found.
 
 ## License
 
-No license has been added yet. But week5_task branch has LICENSE file that can be found
-
-That means others may be able to view the code, and they have permission to reuse, modify, or distribute it.
+[License](LICENSE) has been added. Please review it, read it carefully and follow it.
