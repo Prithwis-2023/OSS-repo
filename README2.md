@@ -1,7 +1,3 @@
-# documentation
-
-## Project documentation
-
 This repository is a small Python practice project for open source software class work.
 
 ## Purpose
